@@ -12,3 +12,6 @@ Platillos:
 - Calzone
 - Fettuccine
 - Lasagna
+
+Practica realizada utilizando Git Bash y GitHub
+Repositorio local y remoto sincronizados correctamente.
